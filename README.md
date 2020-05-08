@@ -1,5 +1,5 @@
 # Archive: ATMS 421 Projects
-My repository for assignments that I worked on in my Earth Systems Modeling class.
+My repository for assignments that I worked on in my Earth Systems Modeling class in the fall of 2019.
 
 These were largely developed with help from Dr. Anna Nesbitt at the University of Illinois at Urbana-Champaign.
 
