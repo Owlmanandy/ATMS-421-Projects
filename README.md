@@ -1,7 +1,7 @@
 # Archive: ATMS 421 Projects
 My repository for assignments that I worked on in my Earth Systems Modeling class.
 
-These were largely developed with help from Dr. Anna Nesbitt at the University of Illinois in Urbana-Champaign.
+These were largely developed with help from Dr. Anna Nesbitt at the University of Illinois at Urbana-Champaign.
 
 # Table of Contents
 **Copy_of_NEW__ESM_Module_6_Lab.ipynb:** A document in which I attempt to model surface and atmospheric temperature using advanced functions, parameters, and calculus.
